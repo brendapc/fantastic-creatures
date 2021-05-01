@@ -11,4 +11,4 @@ Explored:
 - Accordion behavior in JS
 
 <br>
-Available for demo [here](https://brendapc.github.io/fantastic-creatures)
+Available for demo https://brendapc.github.io/fantastic-creatures
